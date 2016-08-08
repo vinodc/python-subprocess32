@@ -1,4 +1,4 @@
-"""When installed as subprocess32.py, this sets up a redirect to subprocess."""
+"""When installed as subprocess32, this sets up a redirect to subprocess."""
 
 import subprocess
 import sys
