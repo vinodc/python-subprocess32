@@ -2,7 +2,7 @@
 
 # This is for my own convenience, edit it for your own environment.
 
-PYTHON=python3.4
+PYTHON=python3
 "$PYTHON" -V
 "$PYTHON" setup.py build
 # Merely test that it imports.  Under Python 3, setup.py should've installed a
